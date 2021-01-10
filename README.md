@@ -1,2 +1,2 @@
 # hello-world
-sandbox
+This is my github sandbox for trying out new ideas.
